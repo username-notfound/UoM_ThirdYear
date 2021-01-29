@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/22_Short_Films_About_Springfield">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1996TelevisionEpisodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season7)Episodes" />
+    <rdfs:label xml:lang="en">22 Short Films About Springfield</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;22 Short Films About Springfield&quot; is the twenty-first episode of The Simpsons&#39; seventh season, which originally aired on April 14, 1996. It was written by Richard Appel, David S. Cohen, Jonathan Collier, Jennifer Crittenden, Greg Daniels, Brent Forrester, Rachel Pulido, Steve Tompkins, Josh Weinstein, Bill Oakley and Matt Groening, with the writing being supervised by Greg Daniels. The episode was directed by Jim Reardon.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.062qr0" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_7)_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_television_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Josh_Weinstein" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jonathan_Collier" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Greg_Daniels" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Rachel_Pulido" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Jennifer_Crittenden" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Matt_Groening" />
+    <dbpprop:writer xml:lang="en">Writing supervisor</dbpprop:writer>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Bill_Oakley" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/David_X._Cohen" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brent_Forrester" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Richard_Appel" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Steve_Tompkins" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-7_episode-21" />
+    <dbpprop:imageCaption xml:lang="en">Bart and Milhouse, wondering what happens on an average day in Springfield.</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Jim_Reardon" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-04-14</dbpprop:airdate>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-04-14</dbpprop:airdate>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/David_Silverman" />
+    <dbpprop:commentary xml:lang="en">Matt Groening</dbpprop:commentary>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Jim_Reardon" />
+    <dbpprop:commentary xml:lang="en">James Oakley</dbpprop:commentary>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Yeardley_Smith" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Rachel_Pulido" />
+    <dbpprop:commentary xml:lang="en">Bill Oakley</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">Richard Appel</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">Josh Weinstein</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">David S. Cohen</dbpprop:commentary>
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The family are sea monkeys, and swim to a couch made of clam shells to stare at an open treasure chest.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Bill_Oakley" />
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Josh_Weinstein" />
+    <dbpprop:episodeName rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">Phil Hartman as Lionel Hutz and the hospital board chairman</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;22 Short Films About Springfield&quot; is the twenty-first episode of The Simpsons&#39; seventh season, which originally aired on April 14, 1996. It was written by Richard Appel, David S. Cohen, Jonathan Collier, Jennifer Crittenden, Greg Daniels, Brent Forrester, Rachel Pulido, Steve Tompkins, Josh Weinstein, Bill Oakley and Matt Groening, with the writing being supervised by Greg Daniels. The episode was directed by Jim Reardon. Phil Hartman guest starred as Lionel Hutz and the hospital board chairman. The episode looks into the lives of other Springfield residents in a series of linked stories and originated from the end segment of the season four episode &quot;The Front&quot;. The episode is a loose parody of Pulp Fiction, which gave the staff the idea of a possible spin-off from The Simpsons. The title is a reference to the film Thirty Two Short Films About Glenn Gould.</dbpedia-owl:abstract>
+    <dbpprop:prodCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/22_Short_Films_About_Springfield" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/22_Short_Films_about_Springfield">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steamed_hams">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steamed_ham">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/22_short_films">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TWENTY-TWO_SHORT_FILMS_ABOUT_SPRINGFIELD">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/22_Short_Films_About_Springfield">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/22_Short_Films_About_Springfield">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/22_Short_Films_About_Springfield" />
+  </rdf:Description>
+</rdf:RDF>
